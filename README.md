@@ -1,0 +1,2 @@
+# baseLandingPage
+Quasar LandingPage Template
