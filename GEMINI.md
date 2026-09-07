@@ -25,6 +25,7 @@ Este repositorio actúa como plantilla base y esqueleto rápido para nuevas land
 
 - **Rama `develop` (Desarrollo & CI)**: Rama de desarrollo y pruebas. No despliega a producción.
 - **Rama `main` (Producción & CD)**: Rama productiva con despliegue automático hacia el VPS.
+  - **INCREMENTO DE VERSIÓN OBLIGATORIO**: Todo pase/merge a producción debe incrementar la versión en `package.json` (SemVer).
 
 ---
 
